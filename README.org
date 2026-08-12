@@ -7,4 +7,4 @@ HTML parser written in Common Lisp
 | commit  | fee4260                                          |
 | systems | closure-html                                     |
 |---------+--------------------------------------------------|
- 
+  
